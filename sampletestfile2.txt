@@ -1,3 +1,8 @@
 This is sample file 2
 This is comparison lecture,change in file 2
+<<<<<<< Updated upstream
 Adding some urgent changes  without git stash
+=======
+This is stash lecture change in file 2
+This is stash lecture change in file 1
+>>>>>>> Stashed changes

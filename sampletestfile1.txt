@@ -1,3 +1,4 @@
 This is sample file 1
 Adding some text in sample file 1 for the merging purpose 
 This is comparison lecture
+This is stash lecture change in file 1
